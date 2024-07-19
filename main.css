@@ -1,0 +1,46 @@
+.doda1{
+    background-color: rgb(168, 168, 168);
+
+} 
+    
+
+
+.doda{
+   
+
+
+}
+
+.box1{
+    width: 350px;
+    height: 150PX;
+    background-color: rgb(255, 255, 255);
+    padding: 23px;
+    border-radius: 20px;
+}
+
+.box{
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    padding: 23px;
+    border-radius: 20px;
+}
+
+.father{
+    display: flex;
+    justify-content: space-around;
+}
+
+.father2{
+    display: flex;
+justify-content: space-evenly;
+padding: 30PX;
+}
+
+.box2{
+    width: 720px;
+    height: 200PX;
+    background-color: rgb(255, 255, 255);
+    padding: 23px;
+    border-radius: 20px;
+}
